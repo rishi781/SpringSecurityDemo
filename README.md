@@ -1,5 +1,7 @@
 # 🛡️ SpringSecurity Demo
 
+# Mini Project
+
 A beginner-friendly Spring Boot application that demonstrates **Spring Security** with form-based login and Thymeleaf integration. It uses default authentication and auto-generates a login password at runtime.
 
 ---
