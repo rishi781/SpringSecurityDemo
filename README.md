@@ -81,11 +81,11 @@ cd SpringSecurity.demo
 
 ### 2. Run the App
 Using Maven wrapper:
-```bash
+```
 ./mvnw spring-boot:run
 ```
 Or with installed Maven:
-```bash
+```
 mvn spring-boot:run
 ```
 
@@ -109,7 +109,7 @@ spring.jpa.hibernate.ddl-auto=update
 ## 🧪 Testing
 
 Run unit and integration tests using:
-```bash
+```
 mvn test
 ```
 
